@@ -1,2 +1,3 @@
-# Machine_Failure
-Exploring machine learning methods to predict machine failure in manufactruing
+# Comparative Analysis of Machine Learning Models for Machine Failure Prediction
+
+In this [project](Machine_Failure_Report.pdf) we explore the potential usage of machine learning techniques for predicting machine failures in manufacturing, a crucial aspect of predictive maintenance. Using a realistic synthetic dataset, we evaluate the performance of logistic regression, decision tree, and tuned random forest models. Despite challenges posed by class imbalance, the tuned random forest model emerges as the most effective, particularly in terms of the F1 score. Our findings suggest that while machine learning can aid in Statistical Process Control (SPC), careful model selection is essential due to the natural class imbalance, and future research could further refine these approaches by considering additional techniques and causal models.
